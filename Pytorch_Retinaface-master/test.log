@@ -1,0 +1,22 @@
+03-48-2023 12:48:28 root:ERROR:load Resnet50 model failed,error_type:FileNotFoundError,error_mes:[Errno 2] No such file or directory: '../pth_model/Retinaface_model_v2-20231202T083246Z-001/Retinaface_model_v2/Resnet50_Final.pth'
+03-49-2023 12:49:35 root:ERROR:load Resnet50 model failed,error_type:FileNotFoundError,error_mes:[Errno 2] No such file or directory: '../../pth_model/Retinaface_model_v2-20231202T083246Z-001/Retinaface_model_v2/Resnet50_Final.pth'
+03-50-2023 12:50:57 root:INFO:Finished loading Resnet50 model!
+03-01-2023 14:01:30 root:INFO:Finished loading Resnet50 model!
+03-02-2023 14:02:25 root:INFO:Finished loading Resnet50 model!
+03-03-2023 14:03:22 root:INFO:Finished loading Resnet50 model!
+03-03-2023 14:03:51 root:INFO:Finished loading Resnet50 model!
+03-31-2023 14:31:41 root:INFO:Finished loading Resnet50 model!
+03-32-2023 14:32:02 root:INFO:Finished loading Resnet50 model!
+03-32-2023 14:32:25 root:INFO:Finished loading Resnet50 model!
+03-32-2023 14:32:56 root:INFO:Finished loading Resnet50 model!
+03-33-2023 14:33:59 root:INFO:Finished loading Resnet50 model!
+03-34-2023 14:34:13 root:INFO:Finished loading Resnet50 model!
+03-35-2023 14:35:02 root:INFO:Finished loading Resnet50 model!
+03-35-2023 14:35:25 root:INFO:Finished loading Resnet50 model!
+03-38-2023 14:38:40 root:INFO:Finished loading Resnet50 model!
+03-46-2023 14:46:57 root:INFO:Finished loading Resnet50 model!
+03-46-2023 14:46:59 root:ERROR:Post processing E:\projects\python_pro\Pytorch_Retinaface-master\Pytorch_Retinaface-master\testdataset\1.jpg failed
+03-46-2023 14:46:59 root:ERROR:Post processing E:\projects\python_pro\Pytorch_Retinaface-master\Pytorch_Retinaface-master\testdataset\11.jpg failed
+03-46-2023 14:46:59 root:ERROR:Post processing E:\projects\python_pro\Pytorch_Retinaface-master\Pytorch_Retinaface-master\testdataset\test.jpg failed
+03-46-2023 14:46:59 root:ERROR:Post processing E:\projects\python_pro\Pytorch_Retinaface-master\Pytorch_Retinaface-master\testdataset\test1.jpg failed
+03-49-2023 14:49:29 root:INFO:Finished loading Resnet50 model!

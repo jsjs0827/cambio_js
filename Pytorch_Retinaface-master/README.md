@@ -32,3 +32,10 @@ After run the demo, there would be a test log which saved the info and error inf
 About the environment, I generated the requirement.txt by Pycharm, you can isntall it by pip install -r requirement.txt in your conda environment.
 About the system, I used the pathlib to address the path problem '\' '/' in different os.
 About the gui, I wrote a simple code to establish a simple gui to infer the single pic.
+
+
+## run infer
+python face_counter_demo.py --file_path absolute path for pic or floder
+
+## run gui
+python demo2.py
